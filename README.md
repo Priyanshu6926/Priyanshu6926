@@ -1,4 +1,3 @@
-[github-profile-1777536828430.json](https://github.com/user-attachments/files/27235159/github-profile-1777536828430.json)
 {
   "version": "1.0.0",
   "exportedAt": "2026-04-30T08:13:48.429Z",
