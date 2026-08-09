@@ -111,22 +111,6 @@ I enjoy transforming ideas into production-ready applications while continuously
 
 ---
 
-# 🎯 Open To
-
-✅ Software Engineering Internship
-
-✅ Full Stack Developer Roles
-
-✅ Backend Development
-
-✅ Java Developer Opportunities
-
-✅ AI/ML Based Projects
-
-✅ Open Source Collaboration
-
----
-
 # 🛠 Tech Stack
 
 ## 💻 Languages
@@ -209,20 +193,6 @@ I enjoy transforming ideas into production-ready applications while continuously
 
 ---
 
-## 📚 Libraries & Technologies
-
-| Category | Technologies |
-|-----------|--------------|
-| Authentication | JWT, Bcrypt |
-| Real-Time | WebRTC |
-| AI APIs | Google Gemini API |
-| Resume Parsing | pdf-parse |
-| File Upload | Multer |
-| Database | MongoDB, PostgreSQL, Firebase |
-| Editors | Monaco Editor |
-| REST APIs | Express.js |
-
----
 
 # 📈 Engineering Interests
 
