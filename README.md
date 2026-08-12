@@ -191,68 +191,7 @@ I enjoy transforming ideas into production-ready applications while continuously
 
 </p>
 
----
 
-<div align="center">
-
-### ⭐ Building software that is scalable, secure, and impactful.
-
-</div>
-
-<!-- ================= END OF PART 1 ================= -->
-<!-- ========================================================= -->
-<!--            PART 2 - AI EXPERTISE & FEATURED PROJECTS       -->
-<!-- ========================================================= -->
-
-# 🤖 Artificial Intelligence & Engineering Expertise
-
-<table align="center">
-
-<tr>
-<th width="25%">Domain</th>
-<th width="15%">Level</th>
-<th>Experience</th>
-</tr>
-
-<tr>
-<td>Full Stack Development</td>
-<td>★★★★★</td>
-<td>Developed scalable MERN applications with authentication, REST APIs, real-time communication, and responsive UI.</td>
-</tr>
-
-<tr>
-<td>Artificial Intelligence</td>
-<td>★★★★☆</td>
-<td>Integrated Google Gemini API for intelligent interview generation, AI evaluation, and resume-based interview workflows.</td>
-</tr>
-
-<tr>
-<td>Backend Engineering</td>
-<td>★★★★☆</td>
-<td>Designed secure REST APIs, authentication systems, MongoDB databases, and real-time backend services.</td>
-</tr>
-
-<tr>
-<td>Machine Learning</td>
-<td>★★★☆☆</td>
-<td>Building a Hybrid Anomaly Detection system for UPI fraud detection using Python and ML algorithms.</td>
-</tr>
-
-<tr>
-<td>Cloud & Deployment</td>
-<td>★★★☆☆</td>
-<td>Experience deploying applications using Vercel, Netlify, Firebase, and GitHub.</td>
-</tr>
-
-<tr>
-<td>Real-Time Systems</td>
-<td>★★★★☆</td>
-<td>Implemented peer-to-peer video interviews using WebRTC and live Firebase synchronization.</td>
-</tr>
-
-</table>
-
----
 
 # 🚀 Featured Projects
 
