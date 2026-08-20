@@ -221,16 +221,6 @@ I enjoy transforming ideas into production-ready applications while continuously
 <!--     PART 4 - GITHUB ANALYTICS • TROPHIES • FOOTER          -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu6926&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu6926&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
