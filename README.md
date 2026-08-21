@@ -241,33 +241,6 @@ I enjoy transforming ideas into production-ready applications while continuously
 
 </div>
 
----
-
-# 📊 Profile Summary Cards
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu6926&theme=github_dark"/>
-
-<br><br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu6926&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu6926&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu6926&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8B5CF6/Priyanshu6926" alt="Contribution Calendar"/>
-
-</div>
 
 
 
