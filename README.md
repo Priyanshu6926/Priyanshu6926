@@ -372,19 +372,7 @@ Then display it using:
 
 </div>
 
----
 
-# 💜 Quote
-
-<div align="center">
-
-> **"Great software is built one thoughtful commit at a time."**
-
-</div>
-
----
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
