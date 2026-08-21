@@ -348,19 +348,7 @@ Then display it using:
 ✔ Real-World Impact
 ```
 
----
 
-# 🎯 2026–2027 Goals
-
-- ✅ Master Java & Advanced DSA
-- ✅ Learn Spring Boot & Microservices
-- ✅ Build Production-Scale Backend Applications
-- ✅ Deepen AWS & Docker Knowledge
-- ✅ Solve 500+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Role
-
----
 
 # 🤝 Let's Connect
 
