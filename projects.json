@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DocTalk (docRAG)",
+    "repo": "Priyanshu6926/docRAG",
+    "description": "Privacy-focused RAG web app for PDF document Q&A with page-level citations",
+    "tags": ["JavaScript", "Python", "RAG"]
+  },
+  {
+    "name": "Redress",
+    "repo": "Priyanshu6926/redress",
+    "description": "Automatic evidence-based DeFi liquidation restitution layer for oracle failures",
+    "tags": ["TypeScript", "Solidity", "DeFi"]
+  },
+  {
+    "name": "RailRadar24",
+    "repo": "Priyanshu6926/RailRadar24",
+    "description": "Live Indian Railways intelligence platform built with Next.js and TypeScript",
+    "tags": ["Next.js", "TypeScript", "Tailwind"]
+  },
+  {
+    "name": "UPI Fraud Detection",
+    "repo": "Priyanshu6926/UPI_Fraud_Major_Project",
+    "description": "Hybrid anomaly detection system for identifying ambiguous UPI transactions",
+    "tags": ["Python", "ML", "scikit-learn"]
+  },
+  {
+    "name": "Interview Prep AI",
+    "repo": "Priyanshu6926/Interview-Prep-AI",
+    "description": "AI-powered interview preparation and practice platform",
+    "tags": ["JavaScript", "AI", "Web"]
+  },
+  {
+    "name": "DSA",
+    "repo": "Priyanshu6926/DSA",
+    "description": "Data structures and algorithms implementations and problem solutions",
+    "tags": ["Java", "Python", "DSA"]
+  }
+]
